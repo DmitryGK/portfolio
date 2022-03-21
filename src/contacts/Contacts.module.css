@@ -1,0 +1,36 @@
+.contactsBlock {
+    height: 100vh;
+    background-color: rgba(127, 255, 212, 0.336) ;
+}
+
+.form {
+    width: 40%;
+    height: 30%;
+    background-color: thistle;
+    border: 1px solid; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 10px
+}
+
+.ContactsContainer {
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.button {
+    width: 120px;
+    height: 40px;
+    background-color: rgba(105, 104, 104, 0.37);
+    border: none;
+}
+
+.title {
+    background-color: cadetblue;
+}
+
+.input {
+    background-color: grey;
+}

@@ -1,7 +1,16 @@
 .header {
     height: 80px;
     background-color: rgba(105, 105, 105, 0.62);
+   
+}
+
+.headerContainer {
+    border: 1px solid black;
+    width: 80%;
     display: flex;
     justify-content: flex-end;
     align-items: center;
+    margin: 0 auto;
+    height: 80px
+
 }

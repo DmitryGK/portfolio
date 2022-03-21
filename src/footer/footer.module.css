@@ -1,0 +1,27 @@
+.footer {
+    background-color: rgba(137, 43, 226, 0.445);
+    height: 35vh;
+}
+
+.footerContainer {
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.icons {
+    border: 1px solid;
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon {
+    height: 50px;
+    width: 50px;
+    background-color: grey;
+}
+
+.title {
+    background-color: grey;
+}
