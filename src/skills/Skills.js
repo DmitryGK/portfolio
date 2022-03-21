@@ -9,7 +9,7 @@ const Skills = () => {
             <div className={`${containerStyle.container} ${style.skillsContainer}`}>
                 <h2 className={style.title}>Skills</h2>
                 <div className={style.skills}>
-                    <Skill title='JS' description='My skill My skill My skill'/>
+                    <Skill title='JS' description='My skill My  My skill'/>
                     <Skill title='CSS' description='My skill My skill My skill'/>
                     <Skill title='React' description='My skill My skill My skill'/>
                 </div>

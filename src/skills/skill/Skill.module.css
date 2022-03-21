@@ -1,14 +1,21 @@
 .skill {
+    box-sizing: border-box;
     width: 250px;
     background-color: dimgray;
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
+    border: 1px solid; 
+    padding: 10px
 }
 
 .icon {
     width: 60px;
     height: 60px;
     background-color: cadetblue;
+}
+
+.description {
+    background-color: grey;
 }
