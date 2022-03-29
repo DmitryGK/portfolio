@@ -1,6 +1,6 @@
 .skill {
     box-sizing: border-box;
-    width: 250px;
+    width: 290px;
     background-color: dimgray;
     display: flex;
     flex-direction: column;

@@ -4,9 +4,9 @@ const Project = (props) => {
     return (
         <div className={style.project}>
             <div className={style.image}>
-                <button className={style.button}>
-                    View the project
-                </button>
+                <div className={style.button}>
+                    <src>View the project</src>
+                </div>
             </div>
             <div className={style.titleDescription}>
                 <h3 className={style.projectTitle}>{props.title}</h3>

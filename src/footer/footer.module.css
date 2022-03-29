@@ -13,7 +13,7 @@
 .icons {
     box-sizing: border-box;
     border: 1px solid;
-    width: 300px;
+    width: 280px;
     display: flex;
     justify-content: space-between;
 }
